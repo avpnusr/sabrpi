@@ -1,0 +1,5 @@
+cheetah
+configobj
+feedparser
+pyOpenSSL
+sabyenc
