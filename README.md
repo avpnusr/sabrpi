@@ -33,4 +33,3 @@ docker run -d \
   -e GID=<Users GID> \
   -p 8080:8080 \
   --restart=always sabrpi
-```
