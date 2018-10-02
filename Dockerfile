@@ -3,8 +3,8 @@ MAINTAINER avpnusr
 ARG PAR2TAG=v0.8.0
 ARG GITTAG=2.3.5
 
-COPY requirements.txt /requirements.txt
-COPY start.sh /start.sh
+COPY ./requirements.txt ./start.sh /
+
 RUN buildDeps="gcc g++ git mercurial make automake autoconf python-dev openssl-dev libffi-dev musl-dev" \
   && apk --update --no-cache add $buildDeps \
   && apk --no-cache add \
