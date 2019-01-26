@@ -5,7 +5,7 @@ Image was created on a TinkerBoard (S) and is automatically updated, when a new 
 
 Versions in the latest image
 -----
-- [SABnzbd](https://sabnzbd.org "SABnzbd Homepage") Version: 2.3.5
+- [SABnzbd](https://sabnzbd.org "SABnzbd Homepage") Version: 2.3.7
 - PAR2 from [par2cmdline](https://github.com/Parchive/par2cmdline) Version: 0.8.0
 
 Tested and compatible with following devices
