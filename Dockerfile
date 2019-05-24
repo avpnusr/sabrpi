@@ -1,7 +1,7 @@
 FROM alpine:latest
 MAINTAINER avpnusr
 ARG PAR2TAG=v0.8.0
-ARG GITTAG=2.3.8
+ARG GITTAG=2.3.9
 
 COPY ./requirements.txt ./start.sh /
 
