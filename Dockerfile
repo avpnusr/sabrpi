@@ -38,6 +38,7 @@ RUN buildDeps="gcc g++ git mercurial make automake autoconf python-dev openssl-d
     /var/cache/apk/* \
     /par2cmdline \
     /sabnzbd/.git \
+    /requirements.txt \
     /tmp/*
 
 EXPOSE 8080
