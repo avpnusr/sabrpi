@@ -1,3 +1,5 @@
+![SABnzbd Logo](https://www.usenet.com/wp-content/uploads/2017/05/Screenshot_2-1.png)
+
 **SABnzbd in container for x86_64 CPUs**
 ===
 
@@ -8,18 +10,6 @@ Versions in the latest image
 -----
 - [SABnzbd](https://sabnzbd.org "SABnzbd Homepage") Version: 2.3.9
 - PAR2 from [par2cmdline](https://github.com/Parchive/par2cmdline) Version: 0.8.0
-
-Tested and compatible with following devices
-----
-- Raspberry Pi
-- Raspberry Pi2
-- Raspberry Pi3 (all models)
-- Raspberry Pi4 (all models)
-- Raspberry Pi Zero
-- Rock64
-- RockPro64
-- TinkerBoard
-- TinkerBoard S
 
 Start your container
 -----
